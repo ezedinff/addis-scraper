@@ -1,0 +1,12 @@
+{
+  "name": "index",
+  "selector": null,
+  "baseUrl": "http://www.addisababa.gov.et/de/web/guest/sub-cities",
+  "children": [
+    {
+      "name": "menu",
+      "selector": ".element",
+      "children": ["ul.level-2>li>a"]
+    }
+  ]
+}

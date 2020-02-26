@@ -1,2 +1,7 @@
 node_modules/
 package-lock.json
+data/
+hackernews.json
+sub-cities.json
+dist
+index

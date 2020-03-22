@@ -1,0 +1,354 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.731163,
+          8.972702
+        ]
+      },
+      "properties": {
+        "landmark_name": "Mekanisa Mazoria",
+        "business_name": "Mekanisa Mazoria",
+        "building_type": "Place Area",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "Place Area",
+        "hours_of_operation": null,
+        "x": 38.731163,
+        "y": 8.972702,
+        "kifle_ketema": "Nifassilk Lafto",
+        "catagories_name": "Place Area",
+        "catagories_am": "ቦታ",
+        "icon": "/images/marker-icon.png",
+        "sml": 0.333333,
+        "latlng": {
+          "lat": 8.972702,
+          "lng": 38.731163
+        }
+      },
+      "name": "Mekanisa Mazoria"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.764221,
+          8.955291
+        ]
+      },
+      "properties": {
+        "landmark_name": "Zembaba",
+        "business_name": "Saris Mazoria Hotel",
+        "building_type": "Restaurant",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "Restaurant",
+        "hours_of_operation": "Mon - Sun 11 AM – 10:30 PM",
+        "x": 38.764221455,
+        "y": 8.9552914550001,
+        "kifle_ketema": "Akaky Kaliti",
+        "catagories_name": "Restaurant",
+        "catagories_am": "ምግብ ቤት",
+        "icon": "/images/restaurant.png",
+        "sml": 0.285714,
+        "latlng": {
+          "lat": 8.9552914550001,
+          "lng": 38.764221455
+        },
+        "thumb": "/images/icons/restaurant.svg"
+      },
+      "name": "Saris Mazoria Hotel"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.718776,
+          8.991854
+        ]
+      },
+      "properties": {
+        "landmark_name": "Total",
+        "business_name": "Bunna International Bank Sost Kuter Mazoria Branch",
+        "building_type": "Bank",
+        "house_number": null,
+        "street_name": "Libya Av",
+        "catagories": "Bank",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.718775889,
+        "y": 8.9918542200001,
+        "kifle_ketema": "Nifassilk Lafto",
+        "catagories_name": "Bank",
+        "catagories_am": "ባንክ",
+        "icon": "/images/bank.png",
+        "sml": 0.28,
+        "latlng": {
+          "lat": 8.9918542200001,
+          "lng": 38.718775889
+        },
+        "thumb": "/images/icons/bank.svg"
+      },
+      "name": "Bunna International Bank Sost Kuter Mazoria Branch"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.734322,
+          8.98288
+        ]
+      },
+      "properties": {
+        "landmark_name": "Mekanissa",
+        "business_name": "Abo Mazoriya",
+        "building_type": "Place Area",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "Place Area",
+        "hours_of_operation": null,
+        "x": 38.734322,
+        "y": 8.98288,
+        "kifle_ketema": "Nifassilk Lafto",
+        "catagories_name": "Place Area",
+        "catagories_am": "ቦታ",
+        "icon": "/images/marker-icon.png",
+        "sml": 0.26087,
+        "latlng": {
+          "lat": 8.98288,
+          "lng": 38.734322
+        }
+      },
+      "name": "Abo Mazoriya"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.744014,
+          8.946369
+        ]
+      },
+      "properties": {
+        "landmark_name": "Lafto",
+        "business_name": "Taxi Mazoria Wefcho Bet",
+        "building_type": "Wefcho Bet",
+        "house_number": null,
+        "street_name": "NL_12_4814 St",
+        "catagories": "Wefcho Bet",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.744014338,
+        "y": 8.9463688910001,
+        "kifle_ketema": "Nifassilk Lafto",
+        "catagories_name": "Wefcho Bet",
+        "catagories_am": "ወፍጮ ቤት",
+        "icon": "/images/shop.png",
+        "sml": 0.25,
+        "latlng": {
+          "lat": 8.9463688910001,
+          "lng": 38.744014338
+        },
+        "thumb": "/images/icons/shop.svg"
+      },
+      "name": "Taxi Mazoria Wefcho Bet"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.727271,
+          9.034238
+        ]
+      },
+      "properties": {
+        "landmark_name": "Mesalemiya",
+        "business_name": "Matuma Kutr 3 Meznagna",
+        "building_type": "Bar",
+        "house_number": 871,
+        "street_name": null,
+        "catagories": "Bar",
+        "hours_of_operation": "Mon - Sun 8 AM - 5:30 PM, Mon - Sun 6 PM - 5 AM",
+        "x": 38.727271041,
+        "y": 9.0342376030001,
+        "kifle_ketema": "Addis Ketema",
+        "catagories_name": "Bar",
+        "catagories_am": "መጠጥ ቤት",
+        "icon": "/images/bar.png",
+        "sml": 0.225806,
+        "latlng": {
+          "lat": 9.0342376030001,
+          "lng": 38.727271041
+        },
+        "thumb": "/images/icons/bar.svg"
+      },
+      "name": "Matuma Kutr 3 Meznagna"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.74169,
+          8.927839
+        ]
+      },
+      "properties": {
+        "landmark_name": "Hanna Mariam 72 Mazoria",
+        "business_name": "Hana 72Qutre Mazoria Grocery",
+        "building_type": "Grocery",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "Grocery",
+        "hours_of_operation": null,
+        "x": 38.741689639,
+        "y": 8.927838626,
+        "kifle_ketema": "Nifassilk Lafto",
+        "catagories_name": "Grocery",
+        "catagories_am": "ግሮሰሪ",
+        "icon": "/images/supermarket.png",
+        "sml": 0.216216,
+        "latlng": {
+          "lat": 8.927838626,
+          "lng": 38.741689639
+        },
+        "thumb": "/images/icons/supermarket.svg"
+      },
+      "name": "Hana 72Qutre Mazoria Grocery"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.750007,
+          8.984333
+        ]
+      },
+      "properties": {
+        "landmark_name": "Gofa Mazoriya Area",
+        "business_name": "Gofa Mazoriya Area",
+        "building_type": "Place Area",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "Place Area",
+        "hours_of_operation": null,
+        "x": 38.750007334,
+        "y": 8.9843330260001,
+        "kifle_ketema": "Nifassilk Lafto",
+        "catagories_name": "Place Area",
+        "catagories_am": "ቦታ",
+        "icon": "/images/marker-icon.png",
+        "sml": 0.206897,
+        "latlng": {
+          "lat": 8.9843330260001,
+          "lng": 38.750007334
+        }
+      },
+      "name": "Gofa Mazoriya Area"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.787708,
+          9.011532
+        ]
+      },
+      "properties": {
+        "landmark_name": "Haya Hulet",
+        "business_name": "22 Mazoriya Higher Clinic",
+        "building_type": "Clinic",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "Clinic",
+        "hours_of_operation": "Mon - Sat 7 AM - 8 PM",
+        "x": 38.787708169,
+        "y": 9.0115316060001,
+        "kifle_ketema": "Bole",
+        "catagories_name": "Clinic",
+        "catagories_am": "ክሊኒክ",
+        "icon": "/images/health.png",
+        "sml": 0.2,
+        "latlng": {
+          "lat": 9.0115316060001,
+          "lng": 38.787708169
+        },
+        "thumb": "/images/icons/health.svg"
+      },
+      "name": "22 Mazoriya Higher Clinic"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.74175,
+          8.952017
+        ]
+      },
+      "properties": {
+        "landmark_name": "Lafto",
+        "business_name": "Euphoria Mart",
+        "building_type": "Supermarket",
+        "house_number": null,
+        "street_name": "NL_12_4854 St",
+        "catagories": "Supermarket",
+        "hours_of_operation": "Mon - Sun 7 AM - 8 PM",
+        "x": 38.74175,
+        "y": 8.9520170000001,
+        "kifle_ketema": "Nifassilk Lafto",
+        "catagories_name": "Supermarket",
+        "catagories_am": "ሱፐር ማርኬት",
+        "icon": "/images/supermarket.png",
+        "sml": 0.2,
+        "latlng": {
+          "lat": 8.9520170000001,
+          "lng": 38.74175
+        },
+        "thumb": "/images/icons/supermarket.svg"
+      },
+      "name": "Euphoria Mart"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.741751,
+          8.952022
+        ]
+      },
+      "properties": {
+        "landmark_name": "Lafto",
+        "business_name": "Euphoria Mart",
+        "building_type": "Supermarket",
+        "house_number": null,
+        "street_name": "NL_12_4854 St",
+        "catagories": "Supermarket",
+        "hours_of_operation": "Mon - Sun 7 AM - 8 PM",
+        "x": 38.74175107,
+        "y": 8.952021786,
+        "kifle_ketema": "Nifassilk Lafto",
+        "catagories_name": "Supermarket",
+        "catagories_am": "ሱፐር ማርኬት",
+        "icon": "/images/supermarket.png",
+        "sml": 0.2,
+        "latlng": {
+          "lat": 8.952021786,
+          "lng": 38.74175107
+        },
+        "thumb": "/images/icons/supermarket.svg"
+      },
+      "name": "Euphoria Mart"
+    }
+  ]
+}

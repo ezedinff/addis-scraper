@@ -1,0 +1,964 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.73316,
+          9.026262
+        ]
+      },
+      "properties": {
+        "landmark_name": "Sebategna",
+        "business_name": "Addis Ketema Pharmacy ",
+        "building_type": "Pharmacy",
+        "house_number": null,
+        "street_name": "Sebategna av",
+        "catagories": "Pharmacy",
+        "hours_of_operation": "Mon - Sun 12AM - 9 PM",
+        "x": 38.733159646,
+        "y": 9.0262616580001,
+        "kifle_ketema": "Addis Ketema",
+        "catagories_name": "Pharmacy",
+        "catagories_am": "የመድሀኒት መሸጫ መደብር",
+        "icon": "/images/pharmacy.png",
+        "sml": 0.590909,
+        "latlng": {
+          "lat": 9.0262616580001,
+          "lng": 38.733159646
+        },
+        "thumb": "/images/icons/pharmacy.svg"
+      },
+      "name": "Addis Ketema Pharmacy "
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.726588,
+          9.028036
+        ]
+      },
+      "properties": {
+        "landmark_name": "Amanuel Total",
+        "business_name": "Addis Ketema Guenet Church",
+        "building_type": "Church",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "Church",
+        "hours_of_operation": "Open 24 Hours",
+        "x": 38.726588157,
+        "y": 9.028035935,
+        "kifle_ketema": "Addis Ketema",
+        "catagories_name": "Church",
+        "catagories_am": "ቤተ ክርስቲያን",
+        "icon": "/images/church.png",
+        "sml": 0.481481,
+        "latlng": {
+          "lat": 9.028035935,
+          "lng": 38.726588157
+        },
+        "thumb": "/images/icons/church.svg"
+      },
+      "name": "Addis Ketema Guenet Church"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.704822,
+          9.039856
+        ]
+      },
+      "properties": {
+        "landmark_name": "Atena Tera",
+        "business_name": "Addis Ketema Canedy Factory",
+        "building_type": "Factory",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "Factory",
+        "hours_of_operation": "Mon - Sun 9 AM - 9 PM",
+        "x": 38.704822339,
+        "y": 9.0398555200001,
+        "kifle_ketema": "Kolfe Keranio",
+        "catagories_name": "Factory",
+        "catagories_am": "ፋብሪካ",
+        "icon": "/images/factory.png",
+        "sml": 0.464286,
+        "latlng": {
+          "lat": 9.0398555200001,
+          "lng": 38.704822339
+        },
+        "thumb": "/images/icons/factory.svg"
+      },
+      "name": "Addis Ketema Canedy Factory"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.686189,
+          9.004387
+        ]
+      },
+      "properties": {
+        "landmark_name": "Bethel",
+        "business_name": "Addis",
+        "building_type": "Music & Movies Rental Shop",
+        "house_number": "B186_2",
+        "street_name": "KK_07_2374 St",
+        "catagories": "Music & Movies Rental Shop",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.686189289,
+        "y": 9.004387453,
+        "kifle_ketema": "Kolfe Keranio",
+        "catagories_name": "Music & Movies Rental Shop",
+        "catagories_am": "ሙዚቃ እና ፊልም ማከራያ",
+        "icon": "/images/marker-icon.png",
+        "sml": 0.461538,
+        "latlng": {
+          "lat": 9.004387453,
+          "lng": 38.686189289
+        }
+      },
+      "name": "Addis"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.747072,
+          9.043671
+        ]
+      },
+      "properties": {
+        "landmark_name": "Datsun Sefer",
+        "business_name": "Addis",
+        "building_type": "Night Club / Lounge",
+        "house_number": "B17_74",
+        "street_name": "Mali Av",
+        "catagories": "Night Club, Lounge",
+        "hours_of_operation": "Mon - Fri 4 PM - 2 AM, Sat - Sun 6 PM - 5 AM",
+        "x": 38.747071585,
+        "y": 9.043671138,
+        "kifle_ketema": "Arada",
+        "catagories_name": "Night Club, Lounge",
+        "catagories_am": "መሸታ ቤት/የምሽት ክበብ /ላውንጅ",
+        "icon": "/images/jazzclub.png",
+        "sml": 0.461538,
+        "latlng": {
+          "lat": 9.043671138,
+          "lng": 38.747071585
+        },
+        "thumb": "/images/icons/jazzclub.svg"
+      },
+      "name": "Addis"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.741141,
+          8.945159
+        ]
+      },
+      "properties": {
+        "landmark_name": "Lafto",
+        "business_name": "Addis",
+        "building_type": "Wefcho Bet",
+        "house_number": "B334_31",
+        "street_name": "NL_12_5011 St",
+        "catagories": "Wefcho Bet",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.741141,
+        "y": 8.9451590310001,
+        "kifle_ketema": "Nifassilk Lafto",
+        "catagories_name": "Wefcho Bet",
+        "catagories_am": "ወፍጮ ቤት",
+        "icon": "/images/shop.png",
+        "sml": 0.461538,
+        "latlng": {
+          "lat": 8.9451590310001,
+          "lng": 38.741141
+        },
+        "thumb": "/images/icons/shop.svg"
+      },
+      "name": "Addis"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7376,
+          9.037864
+        ]
+      },
+      "properties": {
+        "landmark_name": "Chew Berenda",
+        "business_name": "Addis Ketema W6 Shemache Maber",
+        "building_type": "Meat Shop, Butcher",
+        "house_number": 1234,
+        "street_name": "gojam bereda",
+        "catagories": "Meat Shop, Butcher",
+        "hours_of_operation": "Mon - Sun 8 AM - 9 PM",
+        "x": 38.73759991,
+        "y": 9.037864154,
+        "kifle_ketema": "Addis Ketema",
+        "catagories_name": "Meat Shop, Butcher",
+        "catagories_am": "ስጋ ቤት",
+        "icon": "/images/shop.png",
+        "sml": 0.433333,
+        "latlng": {
+          "lat": 9.037864154,
+          "lng": 38.73759991
+        },
+        "thumb": "/images/icons/shop.svg"
+      },
+      "name": "Addis Ketema W6 Shemache Maber"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.731535,
+          9.04526
+        ]
+      },
+      "properties": {
+        "landmark_name": "Paster",
+        "business_name": "Addis Ketema W6/21 Mezenga Kebeb",
+        "building_type": "Meat Shop, Butcher",
+        "house_number": 1234,
+        "street_name": null,
+        "catagories": "Meat Shop, Butcher",
+        "hours_of_operation": "Mon - Sun 8 AM - 9 PM",
+        "x": 38.731535411,
+        "y": 9.0452595670001,
+        "kifle_ketema": "Addis Ketema",
+        "catagories_name": "Meat Shop, Butcher",
+        "catagories_am": "ስጋ ቤት",
+        "icon": "/images/shop.png",
+        "sml": 0.419355,
+        "latlng": {
+          "lat": 9.0452595670001,
+          "lng": 38.731535411
+        },
+        "thumb": "/images/icons/shop.svg"
+      },
+      "name": "Addis Ketema W6/21 Mezenga Kebeb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.740682,
+          8.951593
+        ]
+      },
+      "properties": {
+        "landmark_name": "Lafto",
+        "business_name": "Ketema Suk",
+        "building_type": "Small Sook / Kiosk",
+        "house_number": "B286_14",
+        "street_name": "NL_12_4868 St",
+        "catagories": "Small Sook",
+        "hours_of_operation": "Sat - Sun 8 AM - 6 PM, Mon - Sat 9 AM - 9 PM",
+        "x": 38.74068244,
+        "y": 8.9515931450001,
+        "kifle_ketema": "Nifassilk Lafto",
+        "catagories_name": "Small Sook",
+        "catagories_am": "ሱቅ",
+        "icon": "/images/shop.png",
+        "sml": 0.411765,
+        "latlng": {
+          "lat": 8.9515931450001,
+          "lng": 38.74068244
+        },
+        "thumb": "/images/icons/shop.svg"
+      },
+      "name": "Ketema Suk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.776048,
+          8.987842
+        ]
+      },
+      "properties": {
+        "landmark_name": "Rwanda",
+        "business_name": "Kiss Addis",
+        "building_type": "Restaurant",
+        "house_number": "B10_33",
+        "street_name": "Rwanda Av",
+        "catagories": "Restaurant",
+        "hours_of_operation": "Mon - Sun 11 AM – 10:30 PM",
+        "x": 38.776047968,
+        "y": 8.987842109,
+        "kifle_ketema": "Bole",
+        "catagories_name": "Restaurant",
+        "catagories_am": "ምግብ ቤት",
+        "icon": "/images/restaurant.png",
+        "sml": 0.411765,
+        "latlng": {
+          "lat": 8.987842109,
+          "lng": 38.776047968
+        },
+        "thumb": "/images/icons/restaurant.svg"
+      },
+      "name": "Kiss Addis"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.712892,
+          9.047926
+        ]
+      },
+      "properties": {
+        "landmark_name": "Atena Tera",
+        "business_name": "Addis Ketema W10 #2 Mezngn Kibebi",
+        "building_type": "Bar",
+        "house_number": 364,
+        "street_name": null,
+        "catagories": "Bar",
+        "hours_of_operation": "Mon - Sun 8 AM - 5:30 PM, Mon - Sun 6 PM - 5 AM",
+        "x": 38.71289209,
+        "y": 9.0479258180001,
+        "kifle_ketema": "Addis Ketema",
+        "catagories_name": "Bar",
+        "catagories_am": "መጠጥ ቤት",
+        "icon": "/images/bar.png",
+        "sml": 0.40625,
+        "latlng": {
+          "lat": 9.0479258180001,
+          "lng": 38.71289209
+        },
+        "thumb": "/images/icons/bar.svg"
+      },
+      "name": "Addis Ketema W10 #2 Mezngn Kibebi"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.732895,
+          9.027998
+        ]
+      },
+      "properties": {
+        "landmark_name": "Sebategna",
+        "business_name": "Nile Insurance Addis Ketema Branch",
+        "building_type": "Insurance Office",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "Insurance Office",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.732894506,
+        "y": 9.027997761,
+        "kifle_ketema": "Addis Ketema",
+        "catagories_name": "Insurance Office",
+        "catagories_am": "ኢንሹራንስ ቢሮ",
+        "icon": "/images/office.png",
+        "sml": 0.393939,
+        "latlng": {
+          "lat": 9.027997761,
+          "lng": 38.732894506
+        },
+        "thumb": "/images/icons/office.svg"
+      },
+      "name": "Nile Insurance Addis Ketema Branch"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.722619,
+          9.03653
+        ]
+      },
+      "properties": {
+        "landmark_name": "Sefer Selam",
+        "business_name": "Addis Ketema Wereda-7 Health Center",
+        "building_type": "Clinic",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "Clinic",
+        "hours_of_operation": "Mon - Sat 7 AM - 8 PM",
+        "x": 38.722618527,
+        "y": 9.0365296110001,
+        "kifle_ketema": "Addis Ketema",
+        "catagories_name": "Clinic",
+        "catagories_am": "ክሊኒክ",
+        "icon": "/images/health.png",
+        "sml": 0.361111,
+        "latlng": {
+          "lat": 9.0365296110001,
+          "lng": 38.722618527
+        },
+        "thumb": "/images/icons/health.svg"
+      },
+      "name": "Addis Ketema Wereda-7 Health Center"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.781746,
+          9.001567
+        ]
+      },
+      "properties": {
+        "landmark_name": "Atlas Hotel",
+        "business_name": "Geo Addis",
+        "building_type": "Hotel",
+        "house_number": "Geo Addis",
+        "street_name": "BL_03_617 St",
+        "catagories": "Hotel",
+        "hours_of_operation": "Open 24 Hours",
+        "x": 38.781745903,
+        "y": 9.0015669900001,
+        "kifle_ketema": "Bole",
+        "catagories_name": "Hotel",
+        "catagories_am": "ሆቴል",
+        "icon": "/images/hotel.png",
+        "sml": 0.352941,
+        "latlng": {
+          "lat": 9.0015669900001,
+          "lng": 38.781745903
+        },
+        "thumb": "/images/icons/hotel.svg"
+      },
+      "name": "Geo Addis"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.72879,
+          8.99704
+        ]
+      },
+      "properties": {
+        "landmark_name": "Bisrate Gebriel",
+        "business_name": "ICS Addis",
+        "building_type": "School",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "School",
+        "hours_of_operation": "Mon - Sat 6 AM - 7:30 PM",
+        "x": 38.7287904,
+        "y": 8.9970399000001,
+        "kifle_ketema": "Nifassilk Lafto",
+        "catagories_name": "School",
+        "catagories_am": "ትምህርት ቤት",
+        "icon": "/images/school.png",
+        "sml": 0.352941,
+        "latlng": {
+          "lat": 8.9970399000001,
+          "lng": 38.7287904
+        },
+        "thumb": "/images/icons/school.svg"
+      },
+      "name": "ICS Addis"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.792844,
+          8.995564
+        ]
+      },
+      "properties": {
+        "landmark_name": "Bole Medhanealem",
+        "business_name": "Ice Addis",
+        "building_type": "Business Office",
+        "house_number": "B174_36",
+        "street_name": "BL_03_821 St",
+        "catagories": "Business Office",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.792844226,
+        "y": 8.995563549,
+        "kifle_ketema": "Bole",
+        "catagories_name": "Business Office",
+        "catagories_am": "የንግድ ቢሮ",
+        "icon": "/images/office.png",
+        "sml": 0.352941,
+        "latlng": {
+          "lat": 8.995563549,
+          "lng": 38.792844226
+        },
+        "thumb": "/images/icons/office.svg"
+      },
+      "name": "Ice Addis"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.690074,
+          9.056895
+        ]
+      },
+      "properties": {
+        "landmark_name": "Asiko Addis Sefer",
+        "business_name": "Addis Fana\r\n",
+        "building_type": "School",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "School",
+        "hours_of_operation": "Mon - Sat 6 AM - 7:30 PM",
+        "x": 38.690074202,
+        "y": 9.056895157,
+        "kifle_ketema": "Kolfe Keranio",
+        "catagories_name": "School",
+        "catagories_am": "ትምህርት ቤት",
+        "icon": "/images/school.png",
+        "sml": 0.333333,
+        "latlng": {
+          "lat": 9.056895157,
+          "lng": 38.690074202
+        },
+        "thumb": "/images/icons/school.svg"
+      },
+      "name": "Addis Fana\r\n"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7549,
+          9.03298
+        ]
+      },
+      "properties": {
+        "landmark_name": "Serategna Sefer",
+        "business_name": "Ketema Grocery",
+        "building_type": "Grocery",
+        "house_number": 593,
+        "street_name": null,
+        "catagories": "Grocery",
+        "hours_of_operation": null,
+        "x": 38.75489984,
+        "y": 9.0329798060001,
+        "kifle_ketema": "Arada",
+        "catagories_name": "Grocery",
+        "catagories_am": "ግሮሰሪ",
+        "icon": "/images/supermarket.png",
+        "sml": 0.333333,
+        "latlng": {
+          "lat": 9.0329798060001,
+          "lng": 38.75489984
+        },
+        "thumb": "/images/icons/supermarket.svg"
+      },
+      "name": "Ketema Grocery"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.738956,
+          9.016611
+        ]
+      },
+      "properties": {
+        "landmark_name": "Lideta",
+        "business_name": "Addis Ketema Mulu Wongel Belivers' Church",
+        "building_type": "Church",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "Church",
+        "hours_of_operation": "Open 24 Hours",
+        "x": 38.738956423,
+        "y": 9.016610531,
+        "kifle_ketema": "Lideta",
+        "catagories_name": "Church",
+        "catagories_am": "ቤተ ክርስቲያን",
+        "icon": "/images/church.png",
+        "sml": 0.317073,
+        "latlng": {
+          "lat": 9.016610531,
+          "lng": 38.738956423
+        },
+        "thumb": "/images/icons/church.svg"
+      },
+      "name": "Addis Ketema Mulu Wongel Belivers' Church"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.735882,
+          9.001924
+        ]
+      },
+      "properties": {
+        "landmark_name": "Africa Andenet",
+        "business_name": "Addis Guzzo",
+        "building_type": "Building",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "Building",
+        "hours_of_operation": "Mon - Sat 6 AM - 9 PM",
+        "x": 38.735882311,
+        "y": 9.001923699,
+        "kifle_ketema": "Lideta",
+        "catagories_name": "Building",
+        "catagories_am": "ህንጻ",
+        "icon": "/images/office.png",
+        "sml": 0.315789,
+        "latlng": {
+          "lat": 9.001923699,
+          "lng": 38.735882311
+        },
+        "thumb": "/images/icons/office.svg"
+      },
+      "name": "Addis Guzzo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.736702,
+          9.034423
+        ]
+      },
+      "properties": {
+        "landmark_name": "Awetobes Tera",
+        "business_name": "Addis Hotel",
+        "building_type": "Restaurant",
+        "house_number": "247_248",
+        "street_name": null,
+        "catagories": "Restaurant",
+        "hours_of_operation": "Mon - Sun 11 AM – 10:30 PM",
+        "x": 38.736701897,
+        "y": 9.0344232730001,
+        "kifle_ketema": "Addis Ketema",
+        "catagories_name": "Restaurant",
+        "catagories_am": "ምግብ ቤት",
+        "icon": "/images/restaurant.png",
+        "sml": 0.315789,
+        "latlng": {
+          "lat": 9.0344232730001,
+          "lng": 38.736701897
+        },
+        "thumb": "/images/icons/restaurant.svg"
+      },
+      "name": "Addis Hotel"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.768351,
+          9.007223
+        ]
+      },
+      "properties": {
+        "landmark_name": "Greek Club",
+        "business_name": "Frank Addis",
+        "building_type": "Restaurant",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "Restaurant",
+        "hours_of_operation": "Mon - Sun 11 AM – 10:30 PM",
+        "x": 38.768351009,
+        "y": 9.007222996,
+        "kifle_ketema": "Kirkos",
+        "catagories_name": "Restaurant",
+        "catagories_am": "ምግብ ቤት",
+        "icon": "/images/restaurant.png",
+        "sml": 0.315789,
+        "latlng": {
+          "lat": 9.007222996,
+          "lng": 38.768351009
+        },
+        "thumb": "/images/icons/restaurant.svg"
+      },
+      "name": "Frank Addis"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.78914,
+          9.006676
+        ]
+      },
+      "properties": {
+        "landmark_name": "Haya Hulet",
+        "business_name": "Addis Tibeb",
+        "building_type": "Sifet- Traditional Clothe Alterations and Tailoring",
+        "house_number": "B214_25",
+        "street_name": "Djibouti Av",
+        "catagories": "Sifet- Traditional Clothe Alterations and Tailoring",
+        "hours_of_operation": "Mon - Sat 9 AM - 9 PM",
+        "x": 38.78914,
+        "y": 9.006676,
+        "kifle_ketema": "Bole",
+        "catagories_name": "Sifet- Traditional Clothe Alterations and Tailoring",
+        "catagories_am": "ባህላዊ አልባሳት ሰፊ እና አስተካካይ",
+        "icon": "/images/clothing.png",
+        "sml": 0.315789,
+        "latlng": {
+          "lat": 9.006676,
+          "lng": 38.78914
+        },
+        "thumb": "/images/icons/clothing.svg"
+      },
+      "name": "Addis Tibeb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.70674,
+          8.992456
+        ]
+      },
+      "properties": {
+        "landmark_name": "Zenebe Work",
+        "business_name": "Addis Hiwot",
+        "building_type": "School",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "School",
+        "hours_of_operation": "Mon - Sat 6 AM - 7:30 PM",
+        "x": 38.706739663,
+        "y": 8.9924560700001,
+        "kifle_ketema": "Kolfe Keranio",
+        "catagories_name": "School",
+        "catagories_am": "ትምህርት ቤት",
+        "icon": "/images/school.png",
+        "sml": 0.315789,
+        "latlng": {
+          "lat": 8.9924560700001,
+          "lng": 38.706739663
+        },
+        "thumb": "/images/icons/school.svg"
+      },
+      "name": "Addis Hiwot"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.72762,
+          9.035747
+        ]
+      },
+      "properties": {
+        "landmark_name": "Mesalemiya",
+        "business_name": "Addis Ketema Sub City Administration Office",
+        "building_type": "Government Building",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "Government Building",
+        "hours_of_operation": "Mon - Sat 7 AM - 5:30 PM",
+        "x": 38.727619946,
+        "y": 9.035746863,
+        "kifle_ketema": "Addis Ketema",
+        "catagories_name": "Government Building",
+        "catagories_am": "የመንግስት ህንፃ",
+        "icon": "/images/government.png",
+        "sml": 0.309524,
+        "latlng": {
+          "lat": 9.035746863,
+          "lng": 38.727619946
+        },
+        "thumb": "/images/icons/government.svg"
+      },
+      "name": "Addis Ketema Sub City Administration Office"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.73295,
+          9.028014
+        ]
+      },
+      "properties": {
+        "landmark_name": "Sebategna",
+        "business_name": "Nib International Bank Addis Ketema Branch ",
+        "building_type": "Bank, Building",
+        "house_number": null,
+        "street_name": "Sebategna av",
+        "catagories": "Bank",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.732950311,
+        "y": 9.028014125,
+        "kifle_ketema": "Addis Ketema",
+        "catagories_name": "Bank",
+        "catagories_am": "ባንክ",
+        "icon": "/images/bank.png",
+        "sml": 0.309524,
+        "latlng": {
+          "lat": 9.028014125,
+          "lng": 38.732950311
+        },
+        "thumb": "/images/icons/bank.svg"
+      },
+      "name": "Nib International Bank Addis Ketema Branch "
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.734695,
+          9.033797
+        ]
+      },
+      "properties": {
+        "landmark_name": "Merkato",
+        "business_name": "Awash International Bank Addis Ketema Branch",
+        "building_type": "Bank",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "Bank",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.734694658,
+        "y": 9.033797393,
+        "kifle_ketema": "Addis Ketema",
+        "catagories_name": "Bank",
+        "catagories_am": "ባንክ",
+        "icon": "/images/bank.png",
+        "sml": 0.302326,
+        "latlng": {
+          "lat": 9.033797393,
+          "lng": 38.734694658
+        },
+        "thumb": "/images/icons/bank.svg"
+      },
+      "name": "Awash International Bank Addis Ketema Branch"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.790495,
+          8.994731
+        ]
+      },
+      "properties": {
+        "landmark_name": "Bole Medhanealem",
+        "business_name": "Tadias Addis",
+        "building_type": "Building, Business Office",
+        "house_number": "B208_19",
+        "street_name": "BL_03_680 St",
+        "catagories": "Business Office",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.790495459,
+        "y": 8.994731044,
+        "kifle_ketema": "Bole",
+        "catagories_name": "Business Office",
+        "catagories_am": "የንግድ ቢሮ",
+        "icon": "/images/office.png",
+        "sml": 0.3,
+        "latlng": {
+          "lat": 8.994731044,
+          "lng": 38.790495459
+        },
+        "thumb": "/images/icons/office.svg"
+      },
+      "name": "Tadias Addis"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.768274,
+          8.881085
+        ]
+      },
+      "properties": {
+        "landmark_name": "Gelan Condominium",
+        "business_name": "Oldis Be Addis",
+        "building_type": "Grocery",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "Grocery",
+        "hours_of_operation": null,
+        "x": 38.76827444,
+        "y": 8.881084733,
+        "kifle_ketema": "Akaky Kaliti",
+        "catagories_name": "Grocery",
+        "catagories_am": "ግሮሰሪ",
+        "icon": "/images/supermarket.png",
+        "sml": 0.3,
+        "latlng": {
+          "lat": 8.881084733,
+          "lng": 38.76827444
+        },
+        "thumb": "/images/icons/supermarket.svg"
+      },
+      "name": "Oldis Be Addis"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.814168,
+          8.994681
+        ]
+      },
+      "properties": {
+        "landmark_name": "Gerji",
+        "business_name": "Addis Atikilt",
+        "building_type": "Building",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "Building",
+        "hours_of_operation": "Mon - Sun 12AM - 9 PM",
+        "x": 38.814167959,
+        "y": 8.9946810060001,
+        "kifle_ketema": "Bole",
+        "catagories_name": "Building",
+        "catagories_am": "ህንጻ",
+        "icon": "/images/office.png",
+        "sml": 0.3,
+        "latlng": {
+          "lat": 8.9946810060001,
+          "lng": 38.814167959
+        },
+        "thumb": "/images/icons/office.svg"
+      },
+      "name": "Addis Atikilt"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "Lodging": [
+    "Hotel",
+    "Guest House",
+    "Motel",
+    "Camping",
+    "Hostel",
+    "Apartments"
+  ],
+  "Shops": [
+    "Supermarket",
+    "Clothes Shop",
+    "Mall",
+    "Marketplace",
+    "Hardware Store",
+    "Furniture Store",
+    "Liquor Store",
+    "Shoe Store",
+    "Department Store",
+    "Sports Goods",
+    "Bakery",
+    "Computer Store",
+    "Jewelry",
+    "Bookstore",
+    "Beauty Shop",
+    "Butcher’s",
+    "Toy Store",
+    "Florist’s",
+    "Petshop",
+    "Gift Shop",
+    "Ticket Shop",
+    "Sweets",
+    "Kiosk",
+    "Wine Shop",
+    "Photo Shop",
+    "Chemist Shop"
+  ],
+  "Health": [
+    "Hospital",
+    "Clinic",
+    "Pharmacy",
+    "Doctor",
+    "Dentist",
+    "Veterinary Doctor"
+  ],
+  "Transport": [
+    "Bus Station",
+    "Gas Station",
+    "Train Station",
+    "Taxi",
+    "Airport",
+    "Parking",
+    "Car Rental",
+    "Subway",
+    "Car Sharing"
+  ],
+  "Finance": [
+    "Bank",
+    "Post",
+    "ATM"
+  ],
+  "Food": [
+    "Restaurant",
+    "Cafe",
+    "Fast Food",
+    "Bar",
+    "Pub"
+  ],
+  "Business": [
+    "Company Office",
+    "Car Parts",
+    "Laundry",
+    "Car Shop",
+    "Hairdresser",
+    "Car Wash",
+    "Optician’s",
+    "Lawyer",
+    "Dry Cleaning",
+    "Tyre Repair"
+  ],
+  "Education": [
+    "School",
+    "College",
+    "University",
+    "Kindergarten"
+  ],
+  "Entertainment": [
+    "Park",
+    "Sauna",
+    "Nightclub",
+    "Cinema",
+    "Stadium",
+    "Library",
+    "Casino",
+    "Fitness Centre",
+    "Swimming Pool",
+    "Theatre",
+    "Water Park",
+    "Zoo",
+    "Pier",
+    "Multi-sport Pitch",
+    "Football Pitch",
+    "Basketball Pitch",
+    "Athletics"
+  ],
+  "Attractions": [
+    "Church",
+    "Attraction",
+    "Mosque",
+    "Viewpoint",
+    "Museum",
+    "Castle",
+    "Monument",
+    "Memorial",
+    "Synagogue",
+    "Tomb",
+    "Wayside Shrine",
+    "Temple"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+

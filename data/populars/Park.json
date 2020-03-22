@@ -1,0 +1,962 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.763113,
+          8.993034
+        ]
+      },
+      "properties": {
+        "landmark_name": "Global",
+        "business_name": null,
+        "building_type": "Car Parking Garages",
+        "house_number": null,
+        "street_name": "KR_02_286 St",
+        "catagories": "Car Parking Garages",
+        "hours_of_operation": "Open 24 Hours",
+        "x": 38.763113,
+        "y": 8.993034,
+        "kifle_ketema": "Kirkos",
+        "catagories_name": "Car Parking Garages",
+        "catagories_am": "የመኪና ማቆሚያ ",
+        "icon": "/images/marker-icon.png",
+        "sml": null,
+        "latlng": {
+          "lat": 8.993034,
+          "lng": 38.763113
+        }
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.770772,
+          8.989753
+        ]
+      },
+      "properties": {
+        "landmark_name": "Wello Sefer",
+        "business_name": null,
+        "building_type": "Car Parking Garages",
+        "house_number": null,
+        "street_name": "KR_02_380 St",
+        "catagories": "Car Parking Garages",
+        "hours_of_operation": "Open 24 Hours",
+        "x": 38.770772,
+        "y": 8.9897530000001,
+        "kifle_ketema": "Kirkos",
+        "catagories_name": "Car Parking Garages",
+        "catagories_am": "የመኪና ማቆሚያ ",
+        "icon": "/images/marker-icon.png",
+        "sml": null,
+        "latlng": {
+          "lat": 8.9897530000001,
+          "lng": 38.770772
+        }
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.779293,
+          9.004363
+        ]
+      },
+      "properties": {
+        "landmark_name": "Atlas Hotel",
+        "business_name": "Park Plaza",
+        "building_type": "Building",
+        "house_number": "B94_2",
+        "street_name": "Namibia Av",
+        "catagories": "Building",
+        "hours_of_operation": "Mon - Sat 6 AM - 9 PM",
+        "x": 38.779292989,
+        "y": 9.004363325,
+        "kifle_ketema": "Bole",
+        "catagories_name": "Building",
+        "catagories_am": "ህንጻ",
+        "icon": "/images/office.png",
+        "sml": 0.5,
+        "latlng": {
+          "lat": 9.004363325,
+          "lng": 38.779292989
+        },
+        "thumb": "/images/icons/office.svg"
+      },
+      "name": "Park Plaza"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.736931,
+          9.07095
+        ]
+      },
+      "properties": {
+        "landmark_name": "Dilber",
+        "business_name": "Gojo Park",
+        "building_type": "Restaurant",
+        "house_number": 212,
+        "street_name": null,
+        "catagories": "Restaurant",
+        "hours_of_operation": "Mon - Sun 11 AM – 10:30 PM",
+        "x": 38.736930675,
+        "y": 9.070950286,
+        "kifle_ketema": "Gulele",
+        "catagories_name": "Restaurant",
+        "catagories_am": "ምግብ ቤት",
+        "icon": "/images/restaurant.png",
+        "sml": 0.5,
+        "latlng": {
+          "lat": 9.070950286,
+          "lng": 38.736930675
+        },
+        "thumb": "/images/icons/restaurant.svg"
+      },
+      "name": "Gojo Park"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.796369,
+          9.024747
+        ]
+      },
+      "properties": {
+        "landmark_name": "Shola",
+        "business_name": "Yeka Park",
+        "building_type": "Park",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "Park",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.796368728,
+        "y": 9.024747029,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Park",
+        "catagories_am": "መናፈሻ",
+        "icon": "/images/tree.png",
+        "sml": 0.5,
+        "latlng": {
+          "lat": 9.024747029,
+          "lng": 38.796368728
+        },
+        "thumb": "/images/icons/tree.svg"
+      },
+      "name": "Yeka Park"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.783855,
+          9.004474
+        ]
+      },
+      "properties": {
+        "landmark_name": "Shala Park",
+        "business_name": "Shala Park",
+        "building_type": "Grocery",
+        "house_number": "B48_26",
+        "street_name": "BL_03_539 St",
+        "catagories": "Grocery",
+        "hours_of_operation": null,
+        "x": 38.783854903,
+        "y": 9.004473605,
+        "kifle_ketema": "Bole",
+        "catagories_name": "Grocery",
+        "catagories_am": "ግሮሰሪ",
+        "icon": "/images/supermarket.png",
+        "sml": 0.454545,
+        "latlng": {
+          "lat": 9.004473605,
+          "lng": 38.783854903
+        },
+        "thumb": "/images/icons/supermarket.svg"
+      },
+      "name": "Shala Park"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.754911,
+          9.030011
+        ]
+      },
+      "properties": {
+        "landmark_name": "Taytu",
+        "business_name": "Park Hotel",
+        "building_type": "Restaurant",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "Restaurant",
+        "hours_of_operation": "Mon - Sun 11 AM – 10:30 PM",
+        "x": 38.754911274,
+        "y": 9.030011383,
+        "kifle_ketema": "Arada",
+        "catagories_name": "Restaurant",
+        "catagories_am": "ምግብ ቤት",
+        "icon": "/images/restaurant.png",
+        "sml": 0.454545,
+        "latlng": {
+          "lat": 9.030011383,
+          "lng": 38.754911274
+        },
+        "thumb": "/images/icons/restaurant.svg"
+      },
+      "name": "Park Hotel"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.739495,
+          9.057708
+        ]
+      },
+      "properties": {
+        "landmark_name": "Sheger",
+        "business_name": "Sheger Park",
+        "building_type": "Park",
+        "house_number": null,
+        "street_name": "Tunisia Av",
+        "catagories": "Park",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.739495252,
+        "y": 9.0577077560001,
+        "kifle_ketema": "Gulele",
+        "catagories_name": "Park",
+        "catagories_am": "መናፈሻ",
+        "icon": "/images/tree.png",
+        "sml": 0.416667,
+        "latlng": {
+          "lat": 9.0577077560001,
+          "lng": 38.739495252
+        },
+        "thumb": "/images/icons/tree.svg"
+      },
+      "name": "Sheger Park"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.690454,
+          9.003811
+        ]
+      },
+      "properties": {
+        "landmark_name": "Bethel",
+        "business_name": "Spark",
+        "building_type": "Photo / Video Studio",
+        "house_number": "B10_59",
+        "street_name": "KK_07_2273 St",
+        "catagories": "Photo, Video Studio",
+        "hours_of_operation": "Mon - Sat 9 AM - 9 PM",
+        "x": 38.690453609,
+        "y": 9.0038110690001,
+        "kifle_ketema": "Kolfe Keranio",
+        "catagories_name": "Photo, Video Studio",
+        "catagories_am": "ፎቶ ቤት ",
+        "icon": "/images/photo.png",
+        "sml": 0.375,
+        "latlng": {
+          "lat": 9.0038110690001,
+          "lng": 38.690453609
+        },
+        "thumb": "/images/icons/photo.svg"
+      },
+      "name": "Spark"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.78456,
+          9.006861
+        ]
+      },
+      "properties": {
+        "landmark_name": "Shala Park",
+        "business_name": "Spark",
+        "building_type": "Commercial Retail",
+        "house_number": null,
+        "street_name": "BL_03_534 St",
+        "catagories": "Commercial Retail",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.784560107,
+        "y": 9.006860621,
+        "kifle_ketema": "Bole",
+        "catagories_name": "Commercial Retail",
+        "catagories_am": "የችርቻሮ ንግድ",
+        "icon": "/images/shop.png",
+        "sml": 0.375,
+        "latlng": {
+          "lat": 9.006860621,
+          "lng": 38.784560107
+        },
+        "thumb": "/images/icons/shop.svg"
+      },
+      "name": "Spark"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.754937,
+          9.01818
+        ]
+      },
+      "properties": {
+        "landmark_name": "Ambassador",
+        "business_name": "Ambassador Park",
+        "building_type": "Building",
+        "house_number": null,
+        "street_name": "Yohanis St",
+        "catagories": "Building",
+        "hours_of_operation": "Mon - Sat 6 AM - 9 PM",
+        "x": 38.754936626,
+        "y": 9.018180417,
+        "kifle_ketema": "Arada",
+        "catagories_name": "Building",
+        "catagories_am": "ህንጻ",
+        "icon": "/images/office.png",
+        "sml": 0.3125,
+        "latlng": {
+          "lat": 9.018180417,
+          "lng": 38.754936626
+        },
+        "thumb": "/images/icons/office.svg"
+      },
+      "name": "Ambassador Park"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.785798,
+          8.994897
+        ]
+      },
+      "properties": {
+        "landmark_name": "Edna Mall",
+        "business_name": "Park Lane Tower",
+        "building_type": "Building",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "Building",
+        "hours_of_operation": "Mon - Sat 6 AM - 9 PM",
+        "x": 38.785798318,
+        "y": 8.9948968140001,
+        "kifle_ketema": "Bole",
+        "catagories_name": "Building",
+        "catagories_am": "ህንጻ",
+        "icon": "/images/office.png",
+        "sml": 0.3125,
+        "latlng": {
+          "lat": 8.9948968140001,
+          "lng": 38.785798318
+        },
+        "thumb": "/images/icons/office.svg"
+      },
+      "name": "Park Lane Tower"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.783855,
+          9.004464
+        ]
+      },
+      "properties": {
+        "landmark_name": "Shala Park",
+        "business_name": "Shalla Public Park",
+        "building_type": "Park",
+        "house_number": "B48_26",
+        "street_name": "BL_03_539 St",
+        "catagories": "Park",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.783854862,
+        "y": 9.0044640670001,
+        "kifle_ketema": "Bole",
+        "catagories_name": "Park",
+        "catagories_am": "መናፈሻ",
+        "icon": "/images/tree.png",
+        "sml": 0.277778,
+        "latlng": {
+          "lat": 9.0044640670001,
+          "lng": 38.783854862
+        },
+        "thumb": "/images/icons/tree.svg"
+      },
+      "name": "Shalla Public Park"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.779067,
+          8.99553
+        ]
+      },
+      "properties": {
+        "landmark_name": "Desalegn Hotel",
+        "business_name": "17/19 Meznagna Park",
+        "building_type": "Restaurant",
+        "house_number": 427,
+        "street_name": null,
+        "catagories": "Restaurant",
+        "hours_of_operation": "Mon - Sun 11 AM – 10:30 PM",
+        "x": 38.779066587,
+        "y": 8.995530209,
+        "kifle_ketema": "Bole",
+        "catagories_name": "Restaurant",
+        "catagories_am": "ምግብ ቤት",
+        "icon": "/images/restaurant.png",
+        "sml": 0.263158,
+        "latlng": {
+          "lat": 8.995530209,
+          "lng": 38.779066587
+        },
+        "thumb": "/images/icons/restaurant.svg"
+      },
+      "name": "17/19 Meznagna Park"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.739536,
+          9.057742
+        ]
+      },
+      "properties": {
+        "landmark_name": "Sheger",
+        "business_name": "Ashe Be Sheger Park",
+        "building_type": "Restaurant",
+        "house_number": 584,
+        "street_name": "Tunisia Av",
+        "catagories": "Restaurant",
+        "hours_of_operation": "Mon - Sun 11 AM – 10:30 PM",
+        "x": 38.739536138,
+        "y": 9.057741692,
+        "kifle_ketema": "Gulele",
+        "catagories_name": "Restaurant",
+        "catagories_am": "ምግብ ቤት",
+        "icon": "/images/restaurant.png",
+        "sml": 0.263158,
+        "latlng": {
+          "lat": 9.057741692,
+          "lng": 38.739536138
+        },
+        "thumb": "/images/icons/restaurant.svg"
+      },
+      "name": "Ashe Be Sheger Park"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.729612,
+          8.996343
+        ]
+      },
+      "properties": {
+        "landmark_name": "Bisrate Gebriel",
+        "business_name": "Spark Bar",
+        "building_type": "Bar",
+        "house_number": null,
+        "street_name": "South Africa Av",
+        "catagories": "Bar",
+        "hours_of_operation": "Mon - Sun 8 AM - 5:30 PM, Mon - Sun 6 PM - 5 AM",
+        "x": 38.729612274,
+        "y": 8.996342645,
+        "kifle_ketema": "Nifassilk Lafto",
+        "catagories_name": "Bar",
+        "catagories_am": "መጠጥ ቤት",
+        "icon": "/images/bar.png",
+        "sml": 0.25,
+        "latlng": {
+          "lat": 8.996342645,
+          "lng": 38.729612274
+        },
+        "thumb": "/images/icons/bar.svg"
+      },
+      "name": "Spark Bar"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.795645,
+          8.990993
+        ]
+      },
+      "properties": {
+        "landmark_name": "Bole Bora",
+        "business_name": "Bora Amusement Park",
+        "building_type": "Restaurant",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "Restaurant",
+        "hours_of_operation": "Mon - Sun 11 AM – 10:30 PM",
+        "x": 38.795644847,
+        "y": 8.990992702,
+        "kifle_ketema": "Bole",
+        "catagories_name": "Restaurant",
+        "catagories_am": "ምግብ ቤት",
+        "icon": "/images/restaurant.png",
+        "sml": 0.25,
+        "latlng": {
+          "lat": 8.990992702,
+          "lng": 38.795644847
+        },
+        "thumb": "/images/icons/restaurant.svg"
+      },
+      "name": "Bora Amusement Park"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.787403,
+          9.01343
+        ]
+      },
+      "properties": {
+        "landmark_name": "Haya Hulet",
+        "business_name": "Paris Cafe",
+        "building_type": "Cafe (Coffee, Tea)",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "Cafe (Coffee, Tea)",
+        "hours_of_operation": "Mon - Sun 8 AM - 8 PM",
+        "x": 38.787402893,
+        "y": 9.01343,
+        "kifle_ketema": "Bole",
+        "catagories_name": "Cafe (Coffee, Tea)",
+        "catagories_am": "ካፌ",
+        "icon": "/images/coffee.png",
+        "sml": 0.230769,
+        "latlng": {
+          "lat": 9.01343,
+          "lng": 38.787402893
+        },
+        "thumb": "/images/icons/coffee.svg"
+      },
+      "name": "Paris Cafe"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.766347,
+          8.993836
+        ]
+      },
+      "properties": {
+        "landmark_name": "Meskel Flower",
+        "business_name": "Papda",
+        "building_type": "Building, Business Office",
+        "house_number": "Y & H Building",
+        "street_name": "Gabon Av",
+        "catagories": "Business Office",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.766347327,
+        "y": 8.9938361810001,
+        "kifle_ketema": "Kirkos",
+        "catagories_name": "Business Office",
+        "catagories_am": "የንግድ ቢሮ",
+        "icon": "/images/office.png",
+        "sml": 0.222222,
+        "latlng": {
+          "lat": 8.9938361810001,
+          "lng": 38.766347327
+        },
+        "thumb": "/images/icons/office.svg"
+      },
+      "name": "Papda"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.750094,
+          8.979805
+        ]
+      },
+      "properties": {
+        "landmark_name": "Kera",
+        "business_name": "Kibwa Rose Park School",
+        "building_type": "School",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "School",
+        "hours_of_operation": "Mon - Sat 6 AM - 7:30 PM",
+        "x": 38.750094125,
+        "y": 8.9798052950001,
+        "kifle_ketema": "Nifassilk Lafto",
+        "catagories_name": "School",
+        "catagories_am": "ትምህርት ቤት",
+        "icon": "/images/school.png",
+        "sml": 0.217391,
+        "latlng": {
+          "lat": 8.9798052950001,
+          "lng": 38.750094125
+        },
+        "thumb": "/images/icons/school.svg"
+      },
+      "name": "Kibwa Rose Park School"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.775639,
+          9.056941
+        ]
+      },
+      "properties": {
+        "landmark_name": "Ferensay",
+        "business_name": "Paris Hotel",
+        "building_type": "Restaurant",
+        "house_number": 1482,
+        "street_name": null,
+        "catagories": "Restaurant",
+        "hours_of_operation": "Mon - Sun 11 AM – 10:30 PM",
+        "x": 38.775639278,
+        "y": 9.056940545,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Restaurant",
+        "catagories_am": "ምግብ ቤት",
+        "icon": "/images/restaurant.png",
+        "sml": 0.214286,
+        "latlng": {
+          "lat": 9.056940545,
+          "lng": 38.775639278
+        },
+        "thumb": "/images/icons/restaurant.svg"
+      },
+      "name": "Paris Hotel"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.784563,
+          9.006674
+        ]
+      },
+      "properties": {
+        "landmark_name": "Shala Park",
+        "business_name": "Sparkel Pub",
+        "building_type": "Bar",
+        "house_number": "B4_35",
+        "street_name": "BL_03_519 St",
+        "catagories": "Bar",
+        "hours_of_operation": "Mon - Sat 9 AM - 9 PM",
+        "x": 38.784562853,
+        "y": 9.0066743630001,
+        "kifle_ketema": "Bole",
+        "catagories_name": "Bar",
+        "catagories_am": "መጠጥ ቤት",
+        "icon": "/images/bar.png",
+        "sml": 0.214286,
+        "latlng": {
+          "lat": 9.0066743630001,
+          "lng": 38.784562853
+        },
+        "thumb": "/images/icons/bar.svg"
+      },
+      "name": "Sparkel Pub"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.781559,
+          9.004652
+        ]
+      },
+      "properties": {
+        "landmark_name": "Atlas Hotel",
+        "business_name": "Paris Pension",
+        "building_type": "Pension",
+        "house_number": 567,
+        "street_name": "BL_03_539 St",
+        "catagories": "Pension",
+        "hours_of_operation": "Open 24 Hours",
+        "x": 38.78155926,
+        "y": 9.004651849,
+        "kifle_ketema": "Bole",
+        "catagories_name": "Pension",
+        "catagories_am": "ፔኒሲዮን",
+        "icon": "/images/hotel.png",
+        "sml": 0.2,
+        "latlng": {
+          "lat": 9.004651849,
+          "lng": 38.78155926
+        },
+        "thumb": "/images/icons/hotel.svg"
+      },
+      "name": "Paris Pension"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.766759,
+          8.99546
+        ]
+      },
+      "properties": {
+        "landmark_name": "Meskel Flower",
+        "business_name": "Tom Spar Part",
+        "building_type": "Building, Car Mechanic Shop",
+        "house_number": "B142_02",
+        "street_name": "Gabon Av",
+        "catagories": "Car Mechanic Shop",
+        "hours_of_operation": "Mon - Sun 12AM - 9 PM",
+        "x": 38.766759198,
+        "y": 8.995460409,
+        "kifle_ketema": "Kirkos",
+        "catagories_name": "Car Mechanic Shop",
+        "catagories_am": "ጋራዥ",
+        "icon": "/images/repair.png",
+        "sml": 0.2,
+        "latlng": {
+          "lat": 8.995460409,
+          "lng": 38.766759198
+        },
+        "thumb": "/images/icons/repair.svg"
+      },
+      "name": "Tom Spar Part"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.784841,
+          9.006388
+        ]
+      },
+      "properties": {
+        "landmark_name": "Shala Park",
+        "business_name": "United Bank Shalla Park Branch",
+        "building_type": "Bank, Building",
+        "house_number": "B42_37",
+        "street_name": "BL_03_534 St",
+        "catagories": "Bank",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.784840934,
+        "y": 9.006388386,
+        "kifle_ketema": "Bole",
+        "catagories_name": "Bank",
+        "catagories_am": "ባንክ",
+        "icon": "/images/bank.png",
+        "sml": 0.166667,
+        "latlng": {
+          "lat": 9.006388386,
+          "lng": 38.784840934
+        },
+        "thumb": "/images/icons/bank.svg"
+      },
+      "name": "United Bank Shalla Park Branch"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.785056,
+          9.004853
+        ]
+      },
+      "properties": {
+        "landmark_name": "Shala Park",
+        "business_name": "Wegagen Bank Shalla Park Branch",
+        "building_type": "Bank, Building",
+        "house_number": "B42_57",
+        "street_name": "BL_03_534 St",
+        "catagories": "Bank",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.785056257,
+        "y": 9.004852913,
+        "kifle_ketema": "Bole",
+        "catagories_name": "Bank",
+        "catagories_am": "ባንክ",
+        "icon": "/images/bank.png",
+        "sml": 0.16129,
+        "latlng": {
+          "lat": 9.004852913,
+          "lng": 38.785056257
+        },
+        "thumb": "/images/icons/bank.svg"
+      },
+      "name": "Wegagen Bank Shalla Park Branch"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.766064,
+          8.992931
+        ]
+      },
+      "properties": {
+        "landmark_name": "Meskel Flower",
+        "business_name": "Basra Hotel Car Parking",
+        "building_type": "Car Parking Garages",
+        "house_number": null,
+        "street_name": "KR_02_285 St",
+        "catagories": "Car Parking Garages",
+        "hours_of_operation": "Open 24 Hours",
+        "x": 38.766064,
+        "y": 8.9929310000001,
+        "kifle_ketema": "Kirkos",
+        "catagories_name": "Car Parking Garages",
+        "catagories_am": "የመኪና ማቆሚያ ",
+        "icon": "/images/marker-icon.png",
+        "sml": 0.16,
+        "latlng": {
+          "lat": 8.9929310000001,
+          "lng": 38.766064
+        }
+      },
+      "name": "Basra Hotel Car Parking"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.779293,
+          9.004363
+        ]
+      },
+      "properties": {
+        "landmark_name": "Atlas Hotel",
+        "business_name": "Park Plaza Administration Office",
+        "building_type": "Building, Business Office",
+        "house_number": "B94_2",
+        "street_name": "Namibia Av",
+        "catagories": "Business Office",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.779292989,
+        "y": 9.004363325,
+        "kifle_ketema": "Bole",
+        "catagories_name": "Business Office",
+        "catagories_am": "የንግድ ቢሮ",
+        "icon": "/images/office.png",
+        "sml": 0.15625,
+        "latlng": {
+          "lat": 9.004363325,
+          "lng": 38.779292989
+        },
+        "thumb": "/images/icons/office.svg"
+      },
+      "name": "Park Plaza Administration Office"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.841856,
+          9.010989
+        ]
+      },
+      "properties": {
+        "landmark_name": "Figa",
+        "business_name": "Park Lane Addis Bed & Breakfast Guest House",
+        "building_type": "Guest House",
+        "house_number": null,
+        "street_name": null,
+        "catagories": "Guest House",
+        "hours_of_operation": "Open 24 Hours",
+        "x": 38.841856315,
+        "y": 9.0109893660001,
+        "kifle_ketema": "Bole",
+        "catagories_name": "Guest House",
+        "catagories_am": "የእንግዳ ቤት",
+        "icon": "/images/hotel.png",
+        "sml": 0.125,
+        "latlng": {
+          "lat": 9.0109893660001,
+          "lng": 38.841856315
+        },
+        "thumb": "/images/icons/hotel.svg"
+      },
+      "name": "Park Lane Addis Bed & Breakfast Guest House"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.785328,
+          9.00466
+        ]
+      },
+      "properties": {
+        "landmark_name": "Shala Park",
+        "business_name": "Lion International Bank Shalla Park Branch",
+        "building_type": "Bank, Building",
+        "house_number": "B42_61",
+        "street_name": "BL_03_534 St",
+        "catagories": "Bank",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.785328,
+        "y": 9.0046600000001,
+        "kifle_ketema": "Bole",
+        "catagories_name": "Bank",
+        "catagories_am": "ባንክ",
+        "icon": "/images/bank.png",
+        "sml": 0.121951,
+        "latlng": {
+          "lat": 9.0046600000001,
+          "lng": 38.785328
+        },
+        "thumb": "/images/icons/bank.svg"
+      },
+      "name": "Lion International Bank Shalla Park Branch"
+    }
+  ]
+}

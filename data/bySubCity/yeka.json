@@ -1,0 +1,945 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.844002,
+          9.025589
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Bakery",
+        "house_number": "B35_52",
+        "street_name": "YK_13_3602 St",
+        "catagories": "Bakery",
+        "hours_of_operation": "Mon - Fri 6 AM - 7:00 PM, Sat - Sun 8 AM - 6 PM",
+        "x": 38.844002,
+        "y": 9.025589,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Bakery",
+        "catagories_am": "ዳቦ መጋገሪያ ",
+        "icon": "/images/bakery.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.025589,
+          "lng": 38.844002
+        },
+        "thumb": "/images/icons/bakery.svg"
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.846086,
+          9.026398
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Bakery",
+        "house_number": null,
+        "street_name": "YK_13_3612 St",
+        "catagories": "Bakery",
+        "hours_of_operation": "Mon - Fri 6 AM - 7:00 PM, Sat - Sun 8 AM - 6 PM",
+        "x": 38.84608556,
+        "y": 9.026398241,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Bakery",
+        "catagories_am": "ዳቦ መጋገሪያ ",
+        "icon": "/images/bakery.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.026398241,
+          "lng": 38.84608556
+        },
+        "thumb": "/images/icons/bakery.svg"
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.84402,
+          9.025099
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Barber Shop",
+        "house_number": "B35_44",
+        "street_name": "YK_13_3602 St",
+        "catagories": "Barber Shop",
+        "hours_of_operation": "Mon - Sat 9 AM - 7 PM",
+        "x": 38.844020408,
+        "y": 9.0250985720001,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Barber Shop",
+        "catagories_am": "የወንዶች ፀጉር  ቤት",
+        "icon": "/images/hair.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.0250985720001,
+          "lng": 38.844020408
+        },
+        "thumb": "/images/icons/hair.svg"
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.844916,
+          9.023813
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Barber Shop",
+        "house_number": null,
+        "street_name": "YK_13_3613 St",
+        "catagories": "Barber Shop",
+        "hours_of_operation": "Mon - Sat 9 AM - 7 PM",
+        "x": 38.844916,
+        "y": 9.0238130000001,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Barber Shop",
+        "catagories_am": "የወንዶች ፀጉር  ቤት",
+        "icon": "/images/hair.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.0238130000001,
+          "lng": 38.844916
+        },
+        "thumb": "/images/icons/hair.svg"
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.847115,
+          9.026232
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Bar / Grocery",
+        "house_number": "B112_10",
+        "street_name": "YK_13_3619 St",
+        "catagories": "Bar, Grocery",
+        "hours_of_operation": "Mon - Sun 12AM - 9 PM",
+        "x": 38.847114878,
+        "y": 9.0262324670001,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Bar, Grocery",
+        "catagories_am": "መጠጥ ቤት / ግሮሰሪ",
+        "icon": "/images/bar.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.0262324670001,
+          "lng": 38.847114878
+        },
+        "thumb": "/images/icons/bar.svg"
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.844048,
+          9.024413
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Beauty Salon",
+        "house_number": "B35_32",
+        "street_name": "YK_13_3602 St",
+        "catagories": "Beauty Salon",
+        "hours_of_operation": "Mon - Sat 6 AM - 8 PM",
+        "x": 38.844047554,
+        "y": 9.0244127170001,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Beauty Salon",
+        "catagories_am": "የውበት ሳሎን",
+        "icon": "/images/hair.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.0244127170001,
+          "lng": 38.844047554
+        },
+        "thumb": "/images/icons/hair.svg"
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.844048,
+          9.024413
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Clothing/Shoes Store",
+        "house_number": "B35_32",
+        "street_name": "YK_13_3602 St",
+        "catagories": "Clothing, Shoes Store",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.844047554,
+        "y": 9.0244127170001,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Clothing, Shoes Store",
+        "catagories_am": "የልብስ/የጫማ መሸጫ",
+        "icon": "/images/clothing.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.0244127170001,
+          "lng": 38.844047554
+        },
+        "thumb": "/images/icons/clothing.svg"
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.844048,
+          9.024413
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Electronic Store",
+        "house_number": "B35_32",
+        "street_name": "YK_13_3602 St",
+        "catagories": "Electronic Store",
+        "hours_of_operation": "Mon - Sat 8 AM - 7 PM",
+        "x": 38.844047554,
+        "y": 9.0244127170001,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Electronic Store",
+        "catagories_am": "የኤሌክትሪክ ዕቃዎች መሸጫ",
+        "icon": "/images/electronics.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.0244127170001,
+          "lng": 38.844047554
+        },
+        "thumb": "/images/icons/electronics.svg"
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.845405,
+          9.025278
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Khat Bet",
+        "house_number": "B93_52",
+        "street_name": "YK_13_3608 St",
+        "catagories": "Khat Bet",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.845405277,
+        "y": 9.0252777050001,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Khat Bet",
+        "catagories_am": "ጫት ቤት",
+        "icon": "/images/leaf.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.0252777050001,
+          "lng": 38.845405277
+        },
+        "thumb": "/images/icons/leaf.svg"
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.847154,
+          9.026233
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Metal Shop",
+        "house_number": "B112_12",
+        "street_name": "YK_13_3619 St",
+        "catagories": "Metal Shop",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.847154467,
+        "y": 9.0262329130001,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Metal Shop",
+        "catagories_am": "ብረታ ብረት መሸጫ ሱቅ",
+        "icon": "/images/shop.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.0262329130001,
+          "lng": 38.847154467
+        },
+        "thumb": "/images/icons/shop.svg"
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.844065,
+          9.024176
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Music & Movies Rental Shop",
+        "house_number": "B35_26",
+        "street_name": "YK_13_3602 St",
+        "catagories": "Music & Movies Rental Shop",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.844064969,
+        "y": 9.0241755720001,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Music & Movies Rental Shop",
+        "catagories_am": "ሙዚቃ እና ፊልም ማከራያ",
+        "icon": "/images/marker-icon.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.0241755720001,
+          "lng": 38.844064969
+        }
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.846108,
+          9.026276
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Music & Movies Rental Shop",
+        "house_number": null,
+        "street_name": "YK_13_3612 St",
+        "catagories": "Music & Movies Rental Shop",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.846107707,
+        "y": 9.026275605,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Music & Movies Rental Shop",
+        "catagories_am": "ሙዚቃ እና ፊልም ማከራያ",
+        "icon": "/images/marker-icon.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.026275605,
+          "lng": 38.846107707
+        }
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.847028,
+          9.022343
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Pool House",
+        "house_number": "B40_3",
+        "street_name": "YK_13_3612 St",
+        "catagories": "Pool House",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.847028,
+        "y": 9.022343,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Pool House",
+        "catagories_am": "ፑል ቤት",
+        "icon": "/images/marker-icon.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.022343,
+          "lng": 38.847028
+        }
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.844127,
+          9.023682
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Pool House",
+        "house_number": null,
+        "street_name": "YK_13_3602 St",
+        "catagories": "Pool House",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.844127428,
+        "y": 9.023682416,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Pool House",
+        "catagories_am": "ፑል ቤት",
+        "icon": "/images/marker-icon.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.023682416,
+          "lng": 38.844127428
+        }
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.844945,
+          9.025933
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Pool House",
+        "house_number": null,
+        "street_name": "YK_13_3611 St",
+        "catagories": "Pool House",
+        "hours_of_operation": "Mon - Sat 8 AM - 5:30 PM",
+        "x": 38.844944982,
+        "y": 9.0259327420001,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Pool House",
+        "catagories_am": "ፑል ቤት",
+        "icon": "/images/marker-icon.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.0259327420001,
+          "lng": 38.844944982
+        }
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.848169,
+          9.026896
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Residential",
+        "house_number": "B100_10",
+        "street_name": "YK_13_3627 St",
+        "catagories": "Residential",
+        "hours_of_operation": null,
+        "x": 38.848169,
+        "y": 9.026896,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Residential",
+        "catagories_am": "መኖሪያ ቤት",
+        "icon": "/images/marker-icon.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.026896,
+          "lng": 38.848169
+        }
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.848342,
+          9.026511
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Residential",
+        "house_number": "B100_11",
+        "street_name": "YK_13_3623 St",
+        "catagories": "Residential",
+        "hours_of_operation": null,
+        "x": 38.848341939,
+        "y": 9.0265105180001,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Residential",
+        "catagories_am": "መኖሪያ ቤት",
+        "icon": "/images/marker-icon.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.0265105180001,
+          "lng": 38.848341939
+        }
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.848283,
+          9.026891
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Residential",
+        "house_number": "B100_12",
+        "street_name": "YK_13_3627 St",
+        "catagories": "Residential",
+        "hours_of_operation": null,
+        "x": 38.848283193,
+        "y": 9.0268912540001,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Residential",
+        "catagories_am": "መኖሪያ ቤት",
+        "icon": "/images/marker-icon.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.0268912540001,
+          "lng": 38.848283193
+        }
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.848441,
+          9.026506
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Residential",
+        "house_number": "B100_13",
+        "street_name": "YK_13_3623 St",
+        "catagories": "Residential",
+        "hours_of_operation": null,
+        "x": 38.848441121,
+        "y": 9.02650636,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Residential",
+        "catagories_am": "መኖሪያ ቤት",
+        "icon": "/images/marker-icon.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.02650636,
+          "lng": 38.848441121
+        }
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.848433,
+          9.026891
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Residential",
+        "house_number": "B100_14",
+        "street_name": "Yk_13_3627 St",
+        "catagories": "Residential",
+        "hours_of_operation": null,
+        "x": 38.848433228,
+        "y": 9.0268905780001,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Residential",
+        "catagories_am": "መኖሪያ ቤት",
+        "icon": "/images/marker-icon.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.0268905780001,
+          "lng": 38.848433228
+        }
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.848537,
+          9.026535
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Residential",
+        "house_number": "B100_19",
+        "street_name": "YK_13_3616 St",
+        "catagories": "Residential",
+        "hours_of_operation": null,
+        "x": 38.848537483,
+        "y": 9.026534757,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Residential",
+        "catagories_am": "መኖሪያ ቤት",
+        "icon": "/images/marker-icon.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.026534757,
+          "lng": 38.848537483
+        }
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.847957,
+          9.026511
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Residential",
+        "house_number": "B100_3",
+        "street_name": "YK_13_3623 St",
+        "catagories": "Residential",
+        "hours_of_operation": null,
+        "x": 38.847957,
+        "y": 9.026511,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Residential",
+        "catagories_am": "መኖሪያ ቤት",
+        "icon": "/images/marker-icon.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.026511,
+          "lng": 38.847957
+        }
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.848036,
+          9.02652
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Residential",
+        "house_number": "B100_5",
+        "street_name": "YK_13_3623 St",
+        "catagories": "Residential",
+        "hours_of_operation": null,
+        "x": 38.848036,
+        "y": 9.0265200000001,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Residential",
+        "catagories_am": "መኖሪያ ቤት",
+        "icon": "/images/marker-icon.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.0265200000001,
+          "lng": 38.848036
+        }
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.847841,
+          9.026899
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Residential",
+        "house_number": "B100_6",
+        "street_name": "YK_13_3627 St",
+        "catagories": "Residential",
+        "hours_of_operation": null,
+        "x": 38.847840775,
+        "y": 9.026899289,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Residential",
+        "catagories_am": "መኖሪያ ቤት",
+        "icon": "/images/marker-icon.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.026899289,
+          "lng": 38.847840775
+        }
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.848161,
+          9.026507
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Residential",
+        "house_number": "B100_7",
+        "street_name": "YK_13_3623 St",
+        "catagories": "Residential",
+        "hours_of_operation": null,
+        "x": 38.848161,
+        "y": 9.026507,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Residential",
+        "catagories_am": "መኖሪያ ቤት",
+        "icon": "/images/marker-icon.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.026507,
+          "lng": 38.848161
+        }
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.847979,
+          9.026886
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Residential",
+        "house_number": "B100_8",
+        "street_name": "YK_13_3627 St",
+        "catagories": "Residential",
+        "hours_of_operation": null,
+        "x": 38.847979219,
+        "y": 9.0268858320001,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Residential",
+        "catagories_am": "መኖሪያ ቤት",
+        "icon": "/images/marker-icon.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.0268858320001,
+          "lng": 38.847979219
+        }
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.848281,
+          9.026506
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Residential",
+        "house_number": "B100_9",
+        "street_name": "YK_13_3623 St",
+        "catagories": "Residential",
+        "hours_of_operation": null,
+        "x": 38.848281,
+        "y": 9.026506,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Residential",
+        "catagories_am": "መኖሪያ ቤት",
+        "icon": "/images/marker-icon.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.026506,
+          "lng": 38.848281
+        }
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.847342,
+          9.026298
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Residential",
+        "house_number": "B111_3",
+        "street_name": "YK_13_3619 St",
+        "catagories": "Residential",
+        "hours_of_operation": null,
+        "x": 38.84734165,
+        "y": 9.026297615,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Residential",
+        "catagories_am": "መኖሪያ ቤት",
+        "icon": "/images/marker-icon.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.026297615,
+          "lng": 38.84734165
+        }
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.847192,
+          9.026691
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Residential",
+        "house_number": "B111_41",
+        "street_name": "YK_13_3614 St",
+        "catagories": "Residential",
+        "hours_of_operation": null,
+        "x": 38.847191893,
+        "y": 9.026690806,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Residential",
+        "catagories_am": "መኖሪያ ቤት",
+        "icon": "/images/marker-icon.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.026690806,
+          "lng": 38.847191893
+        }
+      },
+      "name": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.847209,
+          9.026822
+        ]
+      },
+      "properties": {
+        "landmark_name": "CMC",
+        "business_name": null,
+        "building_type": "Residential",
+        "house_number": "B111_43",
+        "street_name": "YK_13_3614 St",
+        "catagories": "Residential",
+        "hours_of_operation": null,
+        "x": 38.847209086,
+        "y": 9.0268223250001,
+        "kifle_ketema": "Yeka",
+        "catagories_name": "Residential",
+        "catagories_am": "መኖሪያ ቤት",
+        "icon": "/images/marker-icon.png",
+        "sml": null,
+        "latlng": {
+          "lat": 9.0268223250001,
+          "lng": 38.847209086
+        }
+      },
+      "name": null
+    }
+  ]
+}
